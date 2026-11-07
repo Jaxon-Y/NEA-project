@@ -5,3 +5,6 @@ It was all coded in the timespan of about 1 year along with the other A-Levels I
 There is documentation in the form of a PDF which will explain the full process of development. 
 
 It is coded in Python and uses a few libaries which are Pygame and Random. 
+
+To use this program you would need to download all of the python files and image files. 
+You also need to make sure that pygame and random libaries are installed.
